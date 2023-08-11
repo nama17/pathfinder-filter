@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pathfinder Filter
 // @namespace    https://github.com/nama17/pathfinder-filter
-// @version      0.2
+// @version      0.3
 // @description  Filter pathfinder killstream
 // @author       nama17
 // @match        https://pathfinder.sdasi.info/*
