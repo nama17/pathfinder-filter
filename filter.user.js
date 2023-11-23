@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pathfinder Filter
 // @namespace    https://github.com/nama17/pathfinder-filter
-// @version      0.4
+// @version      0.5
 // @description  Filter pathfinder killstream
 // @author       nama17
 // @match        https://pathfinder.lummerland.space/*
@@ -23,6 +23,7 @@ const system_ignores = [
     30002510,// Rens
     30002053,// Hek
     30002659,// Dodixie
+    30100000,// Zarzakh
 ];
 
 function changeFilter() {
