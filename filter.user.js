@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Pathfinder Filter
 // @namespace    https://github.com/nama17/pathfinder-filter
-// @version      0.3
+// @version      0.4
 // @description  Filter pathfinder killstream
 // @author       nama17
-// @match        https://pathfinder.sdasi.info/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=https://pathfinder.sdasi.info/
+// @match        https://pathfinder.lummerland.space/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=https://pathfinder.lummerland.space/
 // @updateURL    https://github.com/nama17/pathfinder-filter/raw/main/filter.user.js
 // @downloadURL  https://github.com/nama17/pathfinder-filter/raw/main/filter.user.js
 // ==/UserScript==
